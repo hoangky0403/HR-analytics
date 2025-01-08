@@ -34,7 +34,7 @@ The project involves:
    - Used visualizations (e.g., line chart, table) to identify patterns and correlations.
 
 4. **Business Recommendations**
-   - Derived actionable insights based on model outputs and EDA findings.
+   - Derived actionable insights based on visualizations and EDA findings.
 
 ## Tools and Technologies
 - **Programming Language**: DAX
