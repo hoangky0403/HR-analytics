@@ -7,6 +7,7 @@ The project involves:
 - Data preprocessing and cleaning
 - Exploratory Data Analysis (EDA)
 - Generating actionable insights for business improvement
+<img width="659" alt="image" src="https://github.com/user-attachments/assets/0d348c9f-f3c9-4ef9-aa67-2d1343e2d9d0" />
 
 ## Key Features
 
